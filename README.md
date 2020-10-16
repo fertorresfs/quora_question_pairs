@@ -9,6 +9,9 @@ The goal of this competition is to predict which of the provided pairs of questi
 * is_duplicate - the target variable, set to 1 if question1 and question2 have essentially the same meaning, and 0 otherwise.
 
 ## Use the Kaggle API to download the dataset
+
+<a href="https://github.com/Kaggle/kaggle-api">Kaggle API</a>
+
 <code>
 kaggle competitions download -c quora-question-pairs
 </code>
