@@ -10,7 +10,7 @@ The goal of this competition is to predict which of the provided pairs of questi
 
 ## Use the Kaggle API to download the dataset
 
-<a href="https://github.com/Kaggle/kaggle-api">Kaggle API</a>
+Link: <a href="https://github.com/Kaggle/kaggle-api">Kaggle API</a>
 
 <code>
 kaggle competitions download -c quora-question-pairs
